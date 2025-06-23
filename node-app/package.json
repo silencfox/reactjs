@@ -1,0 +1,10 @@
+{
+  "name": "node-mysql-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.6.0",
+    "body-parser": "^1.20.2"
+  }
+}
